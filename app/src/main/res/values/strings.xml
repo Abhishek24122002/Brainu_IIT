@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Brainu</string>
+    <string name="folder_name">.brainu/upload</string>
+    <string name="url">https://aziziitblab.co.in/brainu/upload.php</string>
+    <string name="stop_recording">ریکارڈنگ آف ہے</string>
+    <string name="start_recording">ریکارڈنگ شروع کریں</string>
+    <string name="stop_audio">آڈیو بند کرو</string>
+    <string name="play_audio">آڈیو سنیں</string>
+    <string name="confirm">تصدیق کریں</string>
+    <string name="click_here_to_start">مزید جانے کے لئے یہاں کلک کریں।</string>
+    <string name="press_here">ریکارڈنگ شروع کرنے کے لئے یہاں کلک کریں۔ </string>
+    <string name="vc_starting_question">مختلف قسم کے پتے اور پھولوں کی نشاندہی کرنے کے لئے برینو ایک گھنے جنگل میں ہے۔ برینو کی مختلف اشکال کی شناخت میں مدد کریں۔ دی گئی آپشنوں کو سنیں اور صحیح آپشن کا انتخاب کریں</string>
+    <string name="vowels_question">مندرجہ ذیل سر کو دکھایا گیا ہے۔ انہیں سننے کے لئے ایک بار تھپتھپائیں۔ دوبارہ سننے کے لئے دوبارہ تھپتھپائیں۔ جواب دینے کا اختیار دو بار ٹیب کریں۔ پھر  تصدیق  بٹن پر ٹیپ کریں</string>
+    <string name="after_finish">مبارکباد</string>
+    <string name="after_finish_btn">واہ آپ نے یہ کیا ، مزید جانے کے لئے یہاں کلک کریں</string>
+    <string name="word_reading_question"> ساحل سمندر پر ہے. وہ ایک بورڈ تھامے ہوئے ہے۔ جس میں کچھ الفاظ سامنے آئیں گے۔ اپنا جواب ریکارڈ کریں اور اسے کلمہ پڑھنے میں مدد کریں۔ لفظ تبھی ظاہر ہوگا جب آپ ٹیپ کریں گے۔ برینو</string>
+    <string name="all_the_best">\nنیک خواہشات\n</string>
+
+    <string name="phoneme_substitution_question">Brainu کو یہ بتانے میں مدد کریں کہ کون سا نیا لفظ کب تشکیل پائے گا صوتی 1 دیئے گئے لفظ میں آواز 2 کے ساتھ بدلا جاتا ہے۔ آڈیو کے لئے بورڈ پر آواز 1 ، آواز 2 ، اور ورڈ آئیکنز پر ٹیپ کریں۔</string>
+    <string name="paragraph_reading_question">بینو کو یہ وضاحت کرنے میں مدد کریں کہ دیئے گئے الفاظ سے مخصوص آواز نکالنے کے بعد باقی لفظ کیا ہوگا۔ آڈیو سننے کے لئے  آواز  اور  الفاظ    پر تھپتھپائیں</string>
+    <string name="paragraph_reading_0">جنگل میں ایک گھنا پیپل کا درخت تھا۔ درخت کے قریب ایک ندی بہہ گئی۔ ہر طرح کے جانور دریا سے پانی پیتے تھے۔ ایک بار جنگل سے دور ، ایک پیاسا بندر آیا اور اس درخت پر بیٹھ گیا ، اور درخت کے ایک بڑے سوراخ کی طرف دیکھا۔اس نے غور سے اس کی طرف دیکھا۔ کچھ دیر بعد ، اس نے دیکھا کہ ایک سانپ اس سوراخ سے نکلتا ہے اور پرندوں کے گھونسلے کی طرف بڑھتا ہے۔ بندر نے چنگاریوں کے بچوں کا خطرہ دیکھا۔ اس نے فورا the ہی بچوں کی جان بچانے کا سوچا اور اس شاخ کے بالکل اوپر چلا گیا کہ سانپ چل رہا تھا۔ پھر زوردار کاسٹ لرزنے لگی۔ تھوڑی دیر بعد ، اونچی شاخیں ایک ساتھ گرنے لگیں اور سانپ نیچے گر پڑا۔</string>
+    <string name="paragraph_reading_1">">بچوں کے ممتاز شاعر انجینیر اور نامور عالماسماعیل میرٹھی (۱۹۱۷-۱۸۴۴)  نے  فارسی کا ابتدائی درس والد سے لیا۔ فارسی  کی اعلی تعلیم مرزا رحیم بیگ کی نگرانی  میں ہوئی ۔ یہ وہی مرزا ہیں جنھوں نے مرزا  غالب کے 'قاطع برہان' کے جواب میں 'ساطع  برہان' تصنیف کی، اس کتاب کی تیاری میں  مولانا بھی شامل تھے۔ علم ہندسہ میں ان کو  کمال حاصل تھا۔ مگر فارسی کے استاد ہوئے۔  حکومت نے ادبی خدمات کے اعتراف میں خان  صاحب کے خطاب سے نوازا۔ نظموں کا ایک  مجموعہ ۱۸۸۰ میں ریزہؑ جواہر کے نام سے شایع  ہوا۔ ان کی کئی نظمیں انگریزی سے اخذ و  استفادہ اور ترجمہ ہیں۔ بچوں کی درسی  کتابیں بھی مرتب کیں۔ اس کے علاوہ اردو میں  ایک لغت اور صرف و نحو پر کتاب لکھی۔ کہتے  ہیں یہ کتابیں شایع نہیں ہوئیں۔ علم  جغرافیہ پر بھی ان کی کتابیں یادگار ہیں۔  ۱۹۰۹ میں مدرسۃ البنات کے نام سے لڑکیوں  کا ایک اسکول قائم کیا۔ جو بعد میں  اسماعیلیہ ڈگری گرلز کالج کے نام سے جانا  گیا۔ ان کی کتابیں اردو کی پہلی، دوسری  اور تیسری وغیرہ آج بھی نصاب میں شامل ہیں۔  میرٹھ میں جہاں ان کا گھر تھا، اب اسماعیل  نگر کہا جاتا ہے</string>
+    <string name="paragraph_reading_2">ایک دفعہ کا ذکر ہے. تینوں بیل آپس میں بہت اچھے دوست تھے۔ وہ ایک ساتھ گھاس چرنے جاتے تھے۔ ایک شیر بہت دنوں سے ان سب کا پیچھا کرتا رہا ، لیکن اسے معلوم تھا کہ جب تک یہ تینوں متحد ہیں ، تب تک وہ انھیں خراب نہیں کرسکتے ہیں۔ شیر نے تینوں کو ایک دوسرے سے جدا کرنے کی تدبیر کی۔ اس نے بلو کے بارے میں افواہوں کو اڑانا شروع کردیا۔ افواہوں کو سننے کے بعد ، ان کے مابین غلط فہمی پیدا ہوگئی۔ آہستہ آہستہ وہ ایک دوسرے کے ساتھ جلنے لگے۔ آخر کار ایک دن وہ آپس میں لڑ پڑے اور وہ الگ الگ زندگی گزارنے لگے۔ شیر کے لئے یہ ایک بہت بڑا موقع تھا۔ اس نے اس کا پورا فائدہ اٹھایا اور ایک ایک کرکے تینوں کو مار ڈالا اور کھا لیا۔ سیکھنے میں اتحاد ہے - اتحاد۔</string>
+    <string name="paragraph_reading_3">ایک بار ایک کوا ایک دکان سے وڈا چونچ میں بھاگا۔ وہ اڑتے ہوئے درخت پر بیٹھ گیا۔ اسی وقت ، ایک لومڑی نے کوڑے کے فریم میں وڈ کو دیکھا اور اس نے اس کوے سے لڑنا شروع کیا کہ کوا کتنا خوبصورت ہے ، اس کے پروں کا سنہرا کتنا خوبصورت ہے اور یہ بہت اچھی طرح سے گاتا ہے۔ لومڑی نے کہا ، "آپ کی آواز بہت اچھی ہے ، ایک گانا سنیں اور اس سے لطف اٹھائیں۔" کوا خوش ہو گیا جیسے ہی اس نے گانے کے لئے منہ کھولا ، وڈا اس کی چونچ سے نیچے گر گیا اور لومڑی نے اسے کھانے کے لئے چھوڑ دیا۔ سبق - ہمیں جھوٹی تعریفوں سے گریز کرنا چاہئے۔</string>
+    <string name="paragraph_reading_4"></string>
+    <string name="spoonerism_question">بینوخط کو تبدیل کرنے میں مدد کریں ، جوڑے کے پہلے خط کا تبادلہ کریں اور بینو کو بتائیں کہ نئی جوڑی کیا ہے! سننے کے لئے الفاظ پر ٹیپ کریں۔ شروع کرنے کے لئے شروع پر ٹیپ کریں</string>
+    <string name="first_word">لفظ 1</string>
+    <string name="second_word">لفظ 2</string>
+    <string name="syllable_deletion_question">بینو کو یہ وضاحت کرنے میں مدد کریں کہ دیئے گئے الفاظ سے مخصوص آواز نکالنے کے بعد باقی لفظ کیا ہوگا۔ آڈیو سننے کے لئے  آواز  اور  الفاظ    پر تھپتھپائیں</string>
+    <string name="tifa">سننے کے لئے تھپتھپائیں</string>
+    <string name="from_the">کو</string>
+    <string name="remove_from">سے نکالیں</string>
+    <string name="word"> آواز </string>
+    <string name="sound"> الفاظ </string>
+    <string name="dictation_consonent_1">برینو پرامن جنگل میں ہے ، پرندوں اور فطرت کی آوازیں سن رہا ہے۔ آپ کو سننے والا لفظ ٹائپ کرکے برینو کی مدد کریں</string>
+    <string name="answer_here">اپنا جواب یہاں لکھیں ...</string>
+    <string name="now_write_answer">\nاب اپنا جواب لکھیں!\n</string>
+    <string name="dictation_consonent_write">لکھیں اور پر کلک کریں وائٹ بورڈ پر الفاظ لکھیں</string>
+    <string name="start_write">لکھیں</string>
+    <string name="clean">مٹانا</string>
+
+    <string name="phoneme_deletion_question">بینو کو یہ وضاحت کرنے میں مدد کریں کہ دیئے گئے الفاظ سے مخصوص آواز نکالنے کے بعد باقی لفظ کیا ہوگا۔ آڈیو سننے کے لئے  آواز  اور  الفاظ    پر تھپتھپائیں।</string>
+    <string name="ran_question_1">بورڈ کو پھسلنے میں سمجھنے میں بینو کی مدد کریں۔ ان پرچیوں پر دکھائی گئی اشیاء کو بائیں سے دائیں ، دائیں اونچی آواز میں اور تیزی سے پڑھیں۔</string>
+    <string name="ran_iteration_1">آپ کا سوال دکھایا گیا ہے - برخاری \n اچھی قسمت۔</string>
+    <string name="ran_iteration_2">آپ کا سوال دکھایا گیا ہے - اعتراض \n اچھی قسمت۔</string>
+    <string name="ran_iteration_3">آپ کا سوال دکھایا گیا ہے - اعتراض \n اچھی قسمت۔</string>
+    <string name="ran_iteration_4">آپ کا سوال دکھایا گیا ہے۔ رنگ \n اچھی قسمت۔</string>
+
+    <string name="substitute">بدلیں</string>
+    <string name="with">شریک</string>
+    <string name="in">میں</string>
+    <string name="sound1">آواز 1</string>
+    <string name="sound2">آواز 2</string>
+
+    <string name="email_id">ای میل کا پتہ</string>
+    <string name="user_name">نام</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="age">عمر</string>
+    <string name="laguage">زبان</string>
+    <string name="submit">تصدیق کریں</string>
+
+
+    <string name="downloadStarted">ڈاؤن لوڈ ہو رہا ہے…</string>
+    <string name="downloadCompleted"> مکمل ہوا…</string>
+    <string name="downloadFailed">ڈاؤن لوڈ ناکام!</string>
+    <string name="downloadAgain">دوبارہ کوشش کریں !!!</string>
+    <string name="checkInternet">اپنا انٹرنیٹ کنیکشن چیک کریں !!!</string>
+    <string name="searching">تلاش کر رہا ہے ...</string>
+    <string name="oops">معافی مانگنی چاہئے</string>
+    <string name="no_internet">انٹرنیٹ نہیں! اپنا کنکشن چیک کریں</string>
+
+    <string name="v_c_reading">خط</string>
+    <string name="dictation">سنو</string>
+    <string name="ran">شناخت کون</string>
+    <string name="word_reading">لفظ</string>
+    <string name="spoonerism">تبادلہ</string>
+    <string name="paragraph">کہانی</string>
+    <string name="phoneme_1">لفظ کھیل 1</string>
+    <string name="phoneme_2">لفظ کھیل 2</string>
+    <string name="phoneme_3">لفظ کھیل 3</string>
+    <string name="phoneme_4">لفظ کھیل 4</string>
+    <string name="you_win">You Win</string>
+    <string name="close">Close</string>
+    <string name="resume">Resume</string>
+    <string name="select_your_games">Select your games</string>
+    <string name="done">Done</string>
+    <string name="you_won">You Won !!!</string>
+    <string name="you_did_it">You did it !!!</string>
+    <string name="unlock_next">Unlock next</string>
+    <string name="unlocking">Unlocking...</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="restart">Restart</string>
+    <string name="read_text">Read Text</string>
+    <string name="read_question">Read Question</string>
+    <string name="select_correct_one">Select correct one</string>
+    <string name="double_click_to_select">Double click to select</string>
+    <string name="click_here_to_submit">Click here to submit</string>
+    <string name="click_here_to_record">Click here to record</string>
+    <string name="identify_and_speak">Identify and speak</string>
+    <string name="click_here_to_stop">Click here to stop</string>
+    <string name="read_text_loudly">Read text loudly</string>
+    <string name="click_here_to_play">Click here to play</string>
+    <string name="click_to_start_and_listen_audio_carefully">Click to start and listen audio carefully</string>
+    <string name="click_here_to_write">Click here to write</string>
+    <string name="write_here">Write here</string>
+    <string name="click_here_to_listen">Click here to listen</string>
+    <string name="rotate">Rotate</string>
+    <string name="games">Games</string>
+
+</resources>

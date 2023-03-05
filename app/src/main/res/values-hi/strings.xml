@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brainu</string>
+    <string name="folder_name">.brainu/upload</string>
+    <string name="url">https://aziziitblab.co.in/brainu/upload.php</string>
+    <string name="stop_recording">रिकॉर्डिंग बंद</string>
+    <string name="start_recording">रिकॉर्डिंग शुरु</string>
+    <string name="play_audio">ऑडियो सुने</string>
+    <string name="stop_audio">ऑडियो रोकें</string>
+    <string name="confirm">पुष्टी करें</string>
+    <string name="click_here_to_start">आगे जाने के लिए यहां क्लिक करें।</string>
+    <string name="press_here">रिकॉर्डिंग शुरू करने के लिए यहां दबाएं। </string>
+    <string name="vc_starting_question">ब्रेनू विभिन्न प्रकार की पत्तियों और फूलों की पहचान करने के लिए घने जंगल में है।  ब्रेनू को अलग-अलग व्यंजन पहचानने में मदद करें।  दिए गए विकल्पों को सुनें और सही विकल्प चुनें।</string>
+    <string name="vowels_question">निचे स्वर दिखाए गए हैं। उन्हे सुनें के लिए एक बार टैप करें । उन्हें फिर से सुनें के लिए फिर से टैप करें। जवाब देने के लिए विकल्प को दो बार टैब करें। फिर <b>पुष्टि करे</b> बटन पर टैप करें ।</string>
+    <string name="after_finish">\nबधाई हो ।\nआप इस के अंत तक पहुँच चुके हैं ।\n</string>
+    <string name="after_finish_btn">वाह! आप ने यह कर दिया,आगे जाने के लिए यहां क्लिक करें।</string>
+    <string name="word_reading_question">ब्रेनू समुद्र तट पर है। वह एक बोर्ड पकडे हुए है। जिसमें कुछ शब्द दिखाई देंगे। अपना उत्तर रिकॉर्ड कर के उसे शब्द पढ़ने में मदद करें। आपके टैप करने पर ही शब्द दिखाई देगा।</string>
+    <string name="all_the_best">\nशुभकामनाएं\n</string>
+    <string name="paragraph_reading_question">ब्रेनू एक कहानी पढ़ना चाहता है, लेकिन वह पढ़ नहीं पा रहा है। लेकिन आप उसकी मदद कर सकते हैं! कृपया उनकी कहानी की किताब से छोटी कहानी पढ़ें। स्टार्ट पर टैप करने के बाद कहानी दिखाई देगी ।</string>
+    <string name="paragraph_reading_0">जंगल में एक घना पीपल का पेड़ था | पेड़ के पास एक नदी बहती थी | नदी में से सभी तरह के जानवर पानी पीने के लिए आते थे | दूर जंगल से एक बार एक प्यासा बन्दर उस पेड़ पर आकर बैठा, और पेड़ में एक बड़े से छेद पर उस की नज़र पड़ी |वह उसे बड़े ध्यान से देखने लगा| कुछ देर के बाद उसने उस छेद से एक साँप को निकलकर चिड़िया के घोसले कि तरफ बढ़ते देखा| बन्दर को चिड़ियों के बच्चों की जान खतरे मैं नज़र आई| उसने तुरंत बच्चों  कि जान बचाने की तरकीब सोची और ठीक उसी डाली के ऊपर जा पहुँचा जिसपर साँप था| फिर जोर जोर से डाली हिलाने लगा| थोड़ी देर के बाद ऊपर के डालयाँ टूट टूट के गीरने लगी और साँप नीचे गीर पड़ा |</string>
+    <string name="paragraph_reading_1">राम और शाम दो दोस्त थे । वो एक बार अपने गांव के नजदीक जंगल में घूमने गए। घूमते घूमते वो काफी अंदर चले गए और वापस लौटने लगे , अचानक से उन्हें भालू दिखा। भालू ने भी दोनो को देख लिया और इनकी तरफ बढ़ने लगा। शाम को पेड़ पे चढने की कला मालूम थी और उसने बिना राम के बारे में सोचे तुरंत पेड़ पे चढ़ गया। राम ने तुरंत अपना दिमाग लगा के जमीं पे लेट गया क्योंकि उसने यह सुन रखा था की जानवर शवो को पसंद नहीं करते। जैसे ही भालू नजदीक आया राम ने सांस रोक ली। भालू ने राम को सूंघा और मरा हुआ समझ के लौट गया।  थोड़ी देर बाद शाम ने नीचे आके राम से पूछा "भालू तुम्हारे कान में क्या बोल के चला गया?" राम ने कहा "भालू कहा की शाम जैसे दोस्तो से दूर रहो" सीख – ज़रूरत पड़ने पे काम आने वाले लोग ही दोस्त कहलाने के लायक है ।</string>
+    <string name="paragraph_reading_2">एक बार की बात है। तीन बैल आपस में बहुत अच्छे दोस्त थे। वे साथ मिलकर घास चरने जाते। एक शेर काफी दिनो से उन तीनो के पीछे पड़ा था, लेकिन वह जानता था कि जब तक ये तीनो एकजुट है , तब तक वह उनका कुछ नहीं बिगाड़ सकता।  शेर ने उन तीनो को एक–दूसरे से अलग करने की चाल चली। उसने बैलो के बारे में अफवाहें उड़ानी शुरू कर दी। अफवाहें सुन–सुनकर  उन तीनो के बीच गलतफहमी पैदा हो गई।  धीरे–धीरे वे एक–दूसरे से जलने लगे। आखिरकार एक दिन उनमें झगड़ा हो गया और वे अलग–अलग रहने लगे। शेर के लिए यह बहुत अच्छा अवसर था। उसने इसका पूरा लाभ उठाया और एक–एक करके तीनो को मार डाला और खा गया। \nसीख – एकता में ही शक्ति होती है।</string>
+    <string name="paragraph_reading_3">एक बार एक कौवे ने एक दूकान से वडा चोंच मे लेके भाग गया । वह उड़ते उड़ते एक पेड़ पे जाके बैठ गया । इसी बिच एक लोमड़ी ने कौवे की चौंच मे वडा देख लिया और वह कौवे की बडाई करने लगा की कौवा कितना सुंदर है, उसके पंख कितने सुनहरे है और वह बहुत अच्छा गाता है । लोमड़ी ने कहा "तुम्हारी आवाज कितनी अच्छी है एक गाना सुना दो तो मजा आ जाए । " कौवा खुश होके जैसे ही गाने के लिए मुँह खोला उसके चोंच से वड़ा निचे गिर गया और लोमड़ी उसे खा के वहा से चला गया । सीख - अपनी झूठी प्रशंसा से हमे बचना चाहिए ।</string>
+    <string name="paragraph_reading_4">जंगल मैं एक मोर रहता था जिसके रंग - बिरंगे पंख बहुत सुंदर लगते थे।  एक दिन अचानक काले - काले बादल छा गए।  और बहुत तेज़ पानी बरसने लगा।  काले बादल देखते ही मोर अपने पंख फैलाकर नाचने लगा।  वह अपने पंखो की सुंदरता को निहारते हुए खुश था।  उसी समय उसे कोयल का मधुर स्वर सुनाई पड़ा।  यह मिठी आवाज उसे बहुत अच्छी लगी।  तभी उसका ध्यान अपने बेसुरे और कठोर स्वर पर गया।  अपने कठोर स्वर के बारे मै  सोचकर वह उदास हो गया।  वह मन ही मन विचार करने लगा की भगवान ने उसे सुंदर तो बनाया है पर उसे इतनी कठोर और बेसुरी आवाज क्यों दी है।  कोयल से अपने स्वर की तुलना करके वह दुखी हो गया और उसकी आँखों मैं आँसू आ गए। उसी समय उसके सामने एक देवी प्रकट हो गई और मोर से दुःख का कारण पूछा।  मोर ने बताया की कोयल की आवाज इतनी मीठी है पर मेरी क्यों नहीं ? देवी ने उसे समझाया कि भगवान ने हर जीव को कुछ न कुछ खास बनाया है।  किसी को सुंदरता दी हैं किसी को ताकत और किसी को मीठी आवाज। भगवान से मिली विशेषता का सम्मान करना चाहिए और किसी से तुलना न करते हुए जो अपने पास है उस पर संतुष्ट रहना चाहिए।</string>
+
+    <string name="spoonerism_question">ब्रेनू को अक्षर को बदलने में मदद करें, शब्दों की जोड़ी के पहले अक्षर का आदान-प्रदान करें और ब्रेनू को बताएं कि नई जोड़ी क्या है!  सुनने के लिए शब्दों पर टैप करें।  शुरू करने के लिए स्टार्ट पर टैप करें</string>
+    <string name="first_word">शब्द 1</string>
+    <string name="second_word">शब्द 2</string>
+
+    <string name="syllable_deletion_question">ब्रेनू को यह बताने में मदद करें कि दिए गए शब्द से विशिष्ट ध्वनि निकालने के बाद शब्द क्या होगा।  आवाज सुनने के लिए ध्वनि और शब्द आइकन पर टैप करें।</string>
+    <string name="tifa">इसे सुनें के लिए टैप करें</string>
+    <string name="from_the">से</string>
+    <string name="remove_from"> निकाले|</string>
+    <string name="word"> शब्द </string>
+    <string name="sound"> ध्वनि </string>
+    <string name="dictation_consonent_1">ब्रेनु एक शांतिपूर्ण जंगल में है, पक्षियों और प्रकृति की आवाज़ों को सुननें के लिए। ब्रेनु की सहायता करे शब्द को टाइप करके जो आपको सुनाई देगा !</string>
+    <string name="answer_here">अपना उत्तर यहां लिखें ...</string>
+    <string name="now_write_answer">\nअब अपना उत्तर लिखें!\n</string>
+    <string name="dictation_consonent_write">लिखें पर क्लिक करें और सफेद बोर्ड पर शब्द लिखें |</string>
+	<string name="start_write">लिखें</string>
+	<string name="clean">मिटाये</string>
+	
+    <string name="phoneme_substitution_question">ब्रेनू को यह बताने में मदद करें कि दिए गए शब्द में ध्वनि 1 को ध्वनि 2 के साथ बदले तो नया शब्द क्या होगा | \n ऑडियो के लिए बोर्ड पर ध्वनि 1, ध्वनि 2 और शब्द आइकन पर टैप करें।</string>
+	<string name="phoneme_deletion_question">ब्रेनु को यह बताने में मदद करें कि दिए गए शब्द से विशिष्ट ध्वनि निकालने के बाद शेष शब्द क्या होगा। ऑडियो सुनने के लिए <b> ध्वनि </b> और <b> शब्द </b> पर टैप करें।</string>
+    <string name="ran_question_1">बोर्ड पर लगी पर्चियों को समझने में ब्रेनु की मदद कीजिये । इन पर्चियों पर दिखी जाने वाली चिजों को बाएं से दाये सही सही जोर से और जल्दी से पढ़े। </string>
+    <string name="ran_iteration_1">आपका प्रश्न दिखाया गया हैं - बाराखड़ी \nशुभकामनाएं ।</string>
+    <string name="ran_iteration_2">आपका प्रश्न दिखाया गया हैं - वस्तु \nशुभकामनाएं।</string>
+    <string name="ran_iteration_3">आपका प्रश्न दिखाया गया हैं - वस्तु \nशुभकामनाएं।</string>
+    <string name="ran_iteration_4">आपका प्रश्न दिखाया गया हैं - रंग \nशुभकामनाएं।</string>
+
+    <string name="substitute">बदलें |</string>
+    <string name="with">के साथ</string>
+    <string name="in">में</string>
+    <string name="sound1">ध्वनि 1</string>
+    <string name="sound2">ध्वनि 2</string>
+
+    शब्द में शब्द 2 के साथ शब्द 1 को प्रतिस्थापित करें
+    <string name="email_id">ईमेल आईडी</string>
+    <string name="user_name">नाम</string>
+    <string name="password">कुंजिका / पासवर्ड</string>
+    <string name="age">आयु</string>
+    <string name="laguage">भाषा</string>
+    <string name="submit">पुष्टी करें</string>
+
+    <string name="downloadStarted">डाउनलोड हो रहा है...</string>
+    <string name="downloadCompleted">डाउनलोड सम्पन्न हुआ…</string>
+    <string name="downloadFailed">डाउनलोड विफल !!!</string>
+    <string name="downloadAgain">पुनः प्रयास करें !!!</string>
+    <string name="checkInternet">अपना इंटरनेट जांचे !!!</string>
+    <string name="searching">खोज़ रहें है </string>
+    <string name="oops">क्षमा करें</string>
+    <string name="no_internet">इंटरनेट नहीं है! अपना कनेक्शन जांचें</string>
+
+    <string name="v_c_reading">अक्षर</string>
+    <string name="dictation">सुनो</string>
+    <string name="ran">पहचान\n कौन</string>
+    <string name="word_reading">शब्द</string>
+    <string name="spoonerism">अदला\nबदली</string>
+    <string name="paragraph">कहानी</string>
+    <string name="phoneme_1">शब्द खेल 1</string>
+    <string name="phoneme_2">शब्द खेल 2</string>
+    <string name="phoneme_3">शब्द खेल 3</string>
+    <string name="phoneme_4">शब्द खेल 4</string>
+    <string name="you_win">आप सफल हो गए !!</string>
+    <string name="read_text">इस पढ़ें</string>
+    <string name="read_question">प्रश्न पढ़ें</string>
+    <string name="select_correct_one">सही जवाब चुने</string>
+    <string name="double_click_to_select">उत्तर चुनने के लिए दो-बार क्लिक करें</string>
+    <string name="done">आगे बढ़े |</string>
+    <string name="select_your_games">अपने खेल चुने |</string>
+    <string name="games">खेल</string>
+    <string name="rotate">घुमाएँ</string>
+    <string name="close">बंद करें</string>
+    <string name="resume">फिर शुरू करें</string>
+    <string name="tutorial">खेल सीखें</string>
+    <string name="restart">पुन शुरू करें</string>
+    <string name="click_here_to_record">रिकॉर्ड करने के लिए यहां क्लिक करें</string>
+    <string name="identify_and_speak">पहचानें और बोलें</string>
+    <string name="click_here_to_stop">रुकने के लिए यहां क्लिक करें</string>
+    <string name="read_text_loudly">इसे जोर से पढ़ें</string>
+    <string name="click_here_to_play">शुरू करने  के लिए यहां क्लिक करें</string>
+    <string name="click_to_start_and_listen_audio_carefully">" शुरू करने के लिए क्लिक करें और ऑडियो ध्यान से सुनने"</string>
+    <string name="click_here_to_write">लिखने के लिए यहां क्लिक करें</string>
+    <string name="write_here">यहाँ लिखें</string>
+    <string name="click_here_to_listen">सुनने के लिए यहां क्लिक करें</string>
+
+</resources>

@@ -1,0 +1,112 @@
+<resources>
+<string name="app_name">Brainu</string>
+<string name="folder_name">.brainu/upload</string>
+<string name="url">https://aziziitblab.co.in/brainu/upload.php</string>
+<string name="stop_recording">ضبط را متوقف کنید</string>
+<string name="start_recording">شروع به ضبط کنید</string>
+<string name="play_audio">صوت را پخش کنید</string>
+<string name="stop_audio">صوت را متوقف کنید</string>
+<string name="confirm">تایید کنید</string>
+<string name="click_here_to_start">برای شروع اینجا را کلیک کنید</string>
+<string name="press_here">برای شروع اینجا را فشار دهید</string>
+<string name="vc_starting_question"> برینو یک جنگل انبوه برای شناسایی انواع مختلف برگ و گل است. به مغز کمک کنید تا صامت های مختلف (حروف بی صدا) را نیز شناسایی کنید. به گزینه های داده شده گوش دهید و گزینه صحیح را انتخاب کنید.</string>
+<string name="vowels_question">حروف صدادار و صامت ( حروف بی صدا) نشان داده شده است. به گزینه هایی که یکی یکی پخش می شوند گوش دهید. برای بازی دوباره روی آنها به صورت جداگانه کلیک کنید.برای پاسخ دادن گزینه سبز رنگ را کلیک کنید ، بعد ازآن روی دکمه تایید کلیک کنید.</string>
+
+<string name="after_finish">\nتبریک می گویم\n</string>
+<string name="after_finish_btn">برای شروع اینجا را کلیک کنید</string>
+<string name="word_reading_question">برینو در ساحل است. او تابلویی را در دست دارد که چند کلمه را نشان می دهد. با ضبط پاسختان به او کمک کنید آنها را بخواند. این کلمه فقط با ضربه زدن ظاهر می شود</string>
+<string name="all_the_best">\nموفق باشید \n</string>
+
+<string name="paragraph_reading_question">برینو می خواهد به یک داستان گوش کند اما قادر به خواندن نیست. اما می توانید به او کمک کنید! لطفا داستان کوتاه کتاب داستان او را بخوانید. داستان بعد از ضربه زدن روی دکمه شروع ، ظاهر می شود.</string>
+<string name="paragraph_reading_0">مورچه ها در همه جای دنیا یافت می شوند. آنها خانه خود را در ساختمانها ، باغها و غیره می سازند .آنها درلانه مورچه ها زندگی می کنند. مورچه ها حشرات بسیار سخت کوش هستند. در طول تابستان ها آنها برای فصل زمستان غذا جمع می کنند. هر وقت که شیرینی روی زمین افتاده را پیدا کنند ، به آن شیرینی می چسبند و آن را به خانه خود می برند.</string>
+<string name="paragraph_reading_1">امروز هولی جشنواره رنگ ها است. برادر رانیس ، راوی و والدینشان با لباس سفید آماده شده اند و بسته های رنگی دوستدار محیط زیست را خریداری کرده اند. آنها شامل رنگ های صورتی ،  قرمزقرمز ، زردچوبه ای و رنگ پودر برگ سبز هستند. آنها آماده اند هولی خشک را با حداقل هدر رفتن آب با بسیاری از شادی ها ، وحدت ، شیرینی وخوراکی بازی کنند.</string>
+<string name="paragraph_reading_2">شیرینی فروشی در تهران وجود دارد. علی صاحب مغازه است و انواع آب نبات ، خوراکی های شیرین و ترش ، شکلات و تافی را به فروش می رساند. او آب نبات های رنگارنگ ، آب نبات های ژله ای و شیرینی های گوارشی دارد. او دوست دارد اینها را بفروشد چون كودكانی از سراسر شهر برای خرید اینها به مغازه او می آیند. او مرد بسیار مهربانی است و اغلب شیرینی های رایگان می دهد</string>
+<string name="paragraph_reading_3">روزی روزگاری، این سه گاو در بین خود دوستان بسیار خوبی بودند. آنها عادت داشتند با هم درچمنزارها چرا کنند. یک شیر روزهای زیادی بود که همه آنها را دنبال می کرد ، اما او می دانست که تا زمانی که این سه نفر متحد باشند ، نمی تواند آنها را خراب کند. شیریک نیرنگ زد تا این سه نفر را از یکدیگر جدا کند. او شروع به شایعه پردازی در مورد بالو کرد. پس از شنیدن شایعات، بین آنها سوء تفاهم ایجاد شد. کم کم آنها با یکدیگر شروع به سوختن کردند. سرانجام یک روز آنها با یکدیگر درگیر شدند و زندگی جداگانه ای را شروع کردند. این یک موقعیت عالی برای شیر بود. او از آن نهایت استفاده را برد و هر سه را یکی یکی کشت و خورد. یادگیری – در وحدت قدرت وجود دارد. </string>
+<string name="paragraph_reading_4"></string>
+
+<string name="spoonerism_question">برای کمک به برینو درانجام مرحله تعویض حروف، حروف اول جفت کلمات را رد و بدل کنید و به برینو بگویید که جفت جدید چیست! برای گوش دادن روی کلمات ضربه بزنید. برای آغاز کردن روی دکمه شروع ضربه بزنید</string>
+<string name="first_word">1 کلمه</string>
+<string name="second_word">2کلمه</string>
+
+<string name="syllable_deletion_question">ब्रेनू को यह बताने में मदद करें कि दिए गए शब्द से विशिष्ट ध्वनि निकालने के बाद शब्द क्या होगा।  आवाज सुनने के लिए ध्वनि और शब्द आइकन पर टैप करें।</string>
+<string name="tifa">برای صدا روی آن ضربه بزنید</string>
+<string name="from_the"> از</string>
+<string name="remove_from">حذف کنید </string>
+<string name="word"> کلمه </string>
+<string name="sound"> صدا </string>
+<string name="dictation_consonent_1">برینو برای شنیدن صدای پرندگان و طبیعت در یک جنگل آرام و مسالمت آمیز است. کلمات دیکته می شوند. با تایپ کلمه ای که دیکته شده به برینو کمک کنید.</string>
+<string name="answer_here">پاسخ خود را بنویسید</string>
+<string name="now_write_answer">\nاکنون پاسخ خود را بنویسید\n</string>
+
+<string name="dictation_consonent_write">روی نوشتن کلیک کنید و کلمه را روی صفحه سفید بنویسید</string>
+<string name="start_write">بنویس</string>
+<string name="clean">پاک کردن</string>
+
+<string name="phoneme_substitution_question">با گفتن اینکه چه کلمه جدیدی تشکیل می شود که هجا 1 با هجا 2 در کلمه داده شده جایگزین شود، به برینو کمک کنید. برای صدا روی سیلاب 1، سیلاب 2 و کلمه در صفحه ضربه بزنید.</string>
+<string name="phoneme_deletion_question">پس از حذف صدای خاص از کلمه داده شده، به برینو کمک کنید تا به او بگویید کلمه باقی مانده چه خواهد بود. برای گوش دادن به صدا ، روی نمادهای صدا و کلمات از یک صفحه ضربه بزنی.</string>
+
+<string name="ran_question_1">به برینو کمک کنید تا بفهمد چه چیزی روی صفحه سنجاق شده است. موارد خاصی دریادداشت ها ظاهر می شوند. هرچه سریعتر آنها را با صدای بلند از چپ به راست بگویید.</string>
+<string name="ran_iteration_1">سوال شما این است - نامه ها. با آرزوی بهترین ها !!!</string>
+<string name="ran_iteration_2">سوال شما این است - اشیا. با آرزوی بهترین ها !!!</string>
+<string name="ran_iteration_3">سوال شما این است - اشیا. با آرزوی بهترین ها !!!</string>
+<string name="ran_iteration_4">سوال شما این است - رنگها. با آرزوی بهترین ها !!! </string>
+
+<string name="substitute">جایگزین</string>
+<string name="with">با</string>
+<string name="in">که در</string>
+<string name="sound1">صدا 1</string>
+<string name="sound2">صدا 2</string>
+
+<string name="email_id">Email Id</string>
+<string name="user_name">user name</string>
+<string name="password"></string>
+<string name="age">Age</string>
+<string name="laguage">Language</string>
+<string name="submit">SUBMIT</string>
+<string name="downloadStarted">Downloading...</string>
+<string name="downloadCompleted">Download Completed…</string>
+<string name="downloadFailed">Download Failed !!!</string>
+<string name="downloadAgain">Try Again !!!</string>
+<string name="checkInternet">Check Your Internet Connection !!!</string>
+<string name="searching">Searching...</string>
+<string name="oops">Ooops !!!</string>
+<string name="no_internet">No Internet Found ! Check Your Connection</string>
+
+<string name="v_c_reading">\n کلمه \n</string>
+<string name="dictation"> گوش کردن </string>
+<string name="ran">تشخیص دادن</string>
+<string name="word_reading">\n کلمه \n</string>
+<string name="spoonerism">رد و بدل</string>
+<string name="paragraph">داستان</string>
+    <string name="phoneme_1">لفظ کھیل 1</string>
+    <string name="phoneme_2">لفظ کھیل 2</string>
+    <string name="phoneme_3">لفظ کھیل 3</string>
+    <string name="phoneme_4">لفظ کھیل 4</string>
+    <string name="close">نزدیک</string>
+    <string name="resume">از سرگیری</string>
+    <string name="select_your_games">"بازی های خود را انتخاب کنید "</string>
+    <string name="done">انجام شد</string>
+    <string name="you_won">"شما برنده شدید "</string>
+    <string name="you_did_it">"شما برنده شدید "</string>
+    <string name="unlock_next">بعدی را باز کنید</string>
+    <string name="unlocking">"در حال بازکردن "</string>
+    <string name="tutorial">آموزش</string>
+    <string name="restart">مجدد راه اندازی</string>
+    <string name="read_text">"متن را بخوانید "</string>
+    <string name="read_question">"سوال را بخوانید "</string>
+    <string name="select_correct_one">"جواب درست را انتخاب کنید "</string>
+    <string name="double_click_to_select">"برای انتخاب دوبار کلیک کنید "</string>
+    <string name="click_here_to_submit">"برای ارسال کلیک کنید "</string>
+    <string name="click_here_to_record">"برا ی ضبط کردن اینجا را کلیک کنید "</string>
+    <string name="identify_and_speak">"شناسایی کنید و صحبت کنید "</string>
+    <string name="click_here_to_stop">"شناسایی کنید و صحبت کنید "</string>
+    <string name="read_text_loudly">"متن را با صدای بلند بخوانید "</string>
+    <string name="click_here_to_play">"برای اجرا اینجا را کلیک کنید "</string>
+    <string name="click_to_start_and_listen_audio_carefully">دقت به صدا گوش کنید  به کنید و کلیک  برای شروع</string>
+    <string name="click_here_to_write">"برای نوشتن کلیک کنید "</string>
+    <string name="write_here">اینجا بنویسید</string>
+    <string name="click_here_to_listen">"برای گوش دادن اینجا را کلیک کنید "</string>
+    <string name="rotate">چرخش</string>
+    <string name="games">بازی ها</string>
+
+</resources>

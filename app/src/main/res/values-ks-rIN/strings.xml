@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brainu</string>
+    <string name="folder_name">.brainu/upload</string>
+    <string name="url">https://aziziitblab.co.in/brainu/upload.php</string>
+    <string name="stop_recording">"رِکارڈ بنٛد "</string>
+    <string name="start_recording">رِکارڈ شروع</string>
+    <string name="stop_audio">اَواز بنٛد</string>
+    <string name="play_audio">آواز بوٗزیو</string>
+    <string name="confirm">ٹھیک</string>
+    <string name="click_here_to_start">شُروع کرُن</string>
+    <string name="press_here">شُروع کرنہٕ خٲطرٕ دبٲیُو</string>
+</resources>

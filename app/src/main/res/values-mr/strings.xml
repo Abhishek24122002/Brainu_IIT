@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brainu</string>
+    <string name="folder_name">.brainu/upload</string>
+    <string name="url">https://aziziitblab.co.in/brainu/upload.php</string>
+    <string name="stop_recording">रिकॉर्डिंग बंद</string>
+    <string name="start_recording">रेकॉर्डिंग सुरु</string>
+    <string name="play_audio">ऑडिओ ऐका</string>
+    <string name="stop_audio">ऑडिओ थांबवा</string>
+    <string name="confirm">पुष्टी</string>
+    <string name="click_here_to_start">पुढे जाण्यासाठी येथे क्लिक करा.</string>
+    <string name="press_here">रेकॉर्डिंग सुरु करण्यासाठी येथे दाबा. </string>
+    <string name="vc_starting_question">पाने आणि फुलांचे विविध प्रकार ओळखण्यासाठी ब्रेनू दाट जंगलात आला आहे. ब्रेनूला भिन्न स्वर आणि व्यंजन ओळखण्यात मदत करा. दिलेला पर्याय ऐका आणि योग्य पर्याय निवडा.</string>
+    <string name="vowels_question">पुढील स्वर आणि व्यंजन दर्शविले आहेत. त्यांना ऐकण्यासाठी एकदा टॅप करा. त्यांना पुन्हा ऐकण्यासाठी पुन्हा टॅप करा. प्रत्युत्तर देण्यासाठी दोन वेळा टॅप करा. नंतर पुष्टी बटणावर टॅप करा.</string>
+    <string name="after_finish">\nअभिनंदन \nआपण हे फार चांगले केले.\n</string>
+    <string name="after_finish_btn">पुढील जाण्यासाठी येथे क्लिक करा.</string>
+    <string name="word_reading_question">ब्रेनु समुद्र किनारी आहे. त्यास कडे एक बोर्ड आहे ज्यात काही शब्द तुम्हाला दिसतील. ते शब्द वाचण्यात ब्रेनुला मदत करा. जेव्हा आपण रेकॉर्डिंग सुरु वर टॅप कराल तेव्हाच शब्द दिसून येईल.</string>
+    <string name="all_the_best">\nशुभेच्छा\n</string>
+    
+	<string name="paragraph_reading_question">ब्रेनूला एक कथा वाचायची इच्छा आहे, परंतु तो वाचण्यास असमर्थ आहे. पण आपण त्याला मदत करू शकता ! कृपया त्याच्या कथा पुस्तकातील लघुकथा वाचा. रेकॉर्डिंग सुरु वर टॅप केल्यानंतर तुम्हाला कथा दिसेल.</string>
+    <string name="paragraph_reading_0">जंगलात घनदाट पीपलचे झाड होते. झाडाजवळ एक नदी वाहते. सर्व प्रकारचे प्राणी नदीतून पाणी पित असत. एकदा जंगलापासून दूर, तहानलेला माकड आला आणि त्या झाडावर बसला, आणि झाडाच्या एका मोठ्या छिद्रांकडे पाहत त्याने काळजीपूर्वक त्याकडे पाहिले. थोड्या वेळाने, त्याने त्या कुंडीतून साप बाहेर येताना, पक्ष्याच्या घरट्याकडे जाताना पाहिले. त्या चिमणीच्या मुलांचा धोका वानराला दिसला. त्याने तातडीने मुलांचे प्राण वाचविण्याचा विचार केला आणि ज्या फांदीवर साप होता त्या फांदीजवळ गेला. मग जोमदार कास्ट थरथरू लागला. थोड्या वेळाने वरच्या फांद्या खाली कोसळू लागल्या आणि साप खाली कोसळला.</string>
+    <string name="paragraph_reading_1">राम आणि शाम हे दोन मित्र होते. एकदा ते त्याच्या गावाजवळ जंगलात फिरायला गेले होते. चालत असताना, ते आत गेले आणि परत चालू लागले, अचानक त्यांना अस्वल दिसला. अस्वलाने दोघांनाही पाहिले आणि त्यांच्या दिशेने जाऊ लागला. शाम ला झाडे चढण्याची कला ज्ञात होती आणि त्याने लगेच रामाचा विचार न करता झाडावर चढले. जनावराला मृत देह आवडत नाही हे रामाला ठाऊक होते तो लगेच जमिनीवर पडला. अस्वल जवळ येताच रामने श्वास रोखला. अस्वलाने रामाला वास घेतला आणि तो मेला हे समजून परत गेला. थोड्या वेळाने, शाम खाली आला आणि रामाला विचारले, "अस्वल तुझ्या कानात काय म्हणाला ?" राम म्हणाले, "अस्वल म्हणाले होते की तु श्याम सारख्या मित्रांपासून दूर राहावे." शिकवन  - आवश्यकतेमध्ये जे सोबत असतात तेच  मित्र म्हणण्यास पात्र ठरतात.</string>
+    <string name="paragraph_reading_2">एके काळी. तीन बैल आपापसांत खूप चांगले मित्र होते. ते एकत्र गवत चरण्यासाठी जायचे. एक सिंह बरेच दिवसांपासून या सर्वांचा पाठलाग करत होता, परंतु हे माहित होते की जोपर्यंत हे तिघे एकत्रित आहेत तोपर्यंत त्यांचे लुटणे अशक्य आहे. त्या तिघांना एकमेकांपासून वेगळे करण्याची युक्ती सिंहाने केली. त्याने बालोबद्दल अफवा उडवायला सुरवात केली. अफवा ऐकल्यानंतर त्यांच्यात गैरसमज निर्माण झाला. हळूहळू ते एकमेकांशी जळू लागले. अखेर एक दिवस त्यांचा भांडण झाला आणि ते वेगळे राहू लागले. सिंहासाठी ही एक उत्तम संधी होती. त्याने त्याचा पुरेपूर फायदा उठविला आणि तिघांनाही एक एक करून मारले व खाल्ले. बोध - ऐकते मध्ये शक्ती आहे. </string>
+    <string name="paragraph_reading_3">एकदा वडाची चोची घेऊन कावळा दुकानातून पळाला. उड्डाण करत असताना तो एका झाडावर बसला. त्याच वेळी, एका कोल्ह्याने कावळेच्या चौकटीतल्या वड्याला पाहिले आणि कावळा किती सुंदर आहे, त्याचे पंख किती सोनेरी आहेत आणि ते खूप चांगले गातात याबद्दल तो कावळ्याशी भांडू लागला. कोल्हा म्हणाला, "तुझा आवाज खूप चांगला आहे, एखादे गाणे ऐका आणि त्याचा आनंद घ्या." गाण्यासाठी तोंड उघडताच कावळा आनंदी झाला, वडा त्याच्या चोचीवरून खाली पडला आणि कोल्ह्याने त्याला खायला सोडले. पाठ - आपण खोटी प्रशंसा टाळली पाहिजे.</string>
+    <string name="paragraph_reading_4"></string>
+    <string name="phoneme_substitution_question">ब्रेनूला कोणता नवीन शब्द कधी तयार होतो हे सांगून मदत करा ध्वनी 1 दिलेल्या शब्दामध्ये ध्वनी 2 सह बदलला जाईल. \n ऑडिओसाठी ध्वनी 1, ध्वनी 2 आणि बोर्डवर शब्द चिन्हे टॅप करा.</string>
+    <string name="spoonerism_question">ब्रेनूला अक्षर बदलण्यात मदत करा, शब्दांच्या जोडीचे पहिले अक्षर बदलू द्या आणि नवीन जोडी काय आहे हे ब्रेनूला सांगा ! ऐकण्यासाठी शब्दांवर टॅप करा. सुरु करण्यासाठी खालील बटनावर टॅप करा.</string>
+    <string name="first_word">शब्द 1</string>
+    <string name="second_word">शब्द 2</string>
+    <string name="syllable_deletion_question">बदिलेल्या शब्दामधून विशिष्ट आवाज काढल्यानंतर रेनूला शब्द काय असेल ते समजण्यास मदत करा. आवाज ऐकण्यासाठी आवाज आणि शब्द चिन्ह टॅप करा.</string>
+    <string name="tifa">ऐकण्यासाठी टॅप करा</string>
+    <string name="from_the">मधुन</string>
+    <string name="remove_from"> काढा.</string>
+    <string name="word"> शब्द </string>
+    <string name="sound"> ध्वनि </string>
+    <string name="dictation_consonent_1">ब्रेनू शांततामय जंगलात आला आहे, पक्षी आणि निसर्गाचे आवाज ऐकन्या साठी. आपण शब्द ऐकून तो टाइप करण्यात ब्रेनूला मदत करा!</string>
+    <string name="answer_here">आपले उत्तर येथे लिहा ...</string>
+    <string name="now_write_answer">\nआता आपले उत्तर लिहा!\n</string>
+    <string name="phoneme_deletion_question">दिलेल्या शब्दामधून विशिष्ट आवाज काढल्यानंतर उरलेला शब्द काय असेल हे समजावण्यास ब्रेनुला मदत करा. ऑडिओ ऐकण्यासाठी ध्वनि आणि शब्द वर टॅप करा.</string>
+    <string name="dictation_consonent_write">लिहा वर क्लिक करा आणि पांढऱ्या फळ्यावर शब्द लिहा .</string>
+	<string name="start_write">लिहा</string>
+	<string name="clean">पुसून टाका</string>
+
+	<string name="ran_question_1">ब्रेनूला फळ्यावरील वस्तू समजण्यास मदत करा.त्या दर्शविलेल्या वस्तू डावीकडून उजवीकडे, उंच आवाजात वाचा.  जेव्हा आपण रेकॉर्डिंग सुरु वर टॅप कराल तेव्हाच वस्तू दिसून लागतीन. </string>
+    <string name="ran_iteration_1">आपला प्रश्न दर्शविला आहे - बाराखड़ी \nशुभेच्छा</string>
+    <string name="ran_iteration_2">आपला प्रश्न दर्शविला आहे - वस्तु \nशुभेच्छा</string>
+    <string name="ran_iteration_3">आपला प्रश्न दर्शविला आहे - वस्तु \nशुभेच्छा</string>
+    <string name="ran_iteration_4">आपला प्रश्न दर्शविला आहे - रंग \nशुभेच्छा</string>
+      बदला
+    <string name="substitute">बदला.</string>
+    <string name="with">सह</string>
+    <string name="in">मध्ये</string>
+    <string name="sound1">ध्वनि 1</string>
+    <string name="sound2">ध्वनि 2</string>
+
+    <string name="email_id">ई-मेल आयडी</string>
+    <string name="user_name">नाव</string>
+    <string name="password">संकेतशब्द / पासवर्ड</string>
+    <string name="age">वय</string>
+    <string name="laguage">भाषा</string>
+    <string name="submit">पुष्टी करें</string>
+
+    <string name="downloadStarted">डाउनलोड करीत आहे...</string>
+    <string name="downloadCompleted">डाउनलोड पूर्ण झाले…</string>
+    <string name="downloadFailed">डाउनलोड अयशस्वी !!!</string>
+    <string name="downloadAgain">पुन्हा प्रयत्न करा !!!</string>
+    <string name="checkInternet">आपले इंटरनेट कनेक्शन तपासा !!!</string>
+    <string name="searching">शोधत आहे</string>
+    <string name="oops">माफी असावी </string>
+    <string name="no_internet">इंटरनेट नाही! आपले कनेक्शन तपासा</string>
+
+    <string name="v_c_reading">अक्षर</string>
+    <string name="dictation">ऐका</string>
+    <string name="ran">ओळखा\nकोण</string>
+    <string name="word_reading">शब्द</string>
+    <string name="spoonerism">अदला\nबदली</string>
+    <string name="paragraph">कथा</string>
+    <string name="phoneme_1">शब्द खेळ 1</string>
+    <string name="phoneme_2">शब्द खेळ 2</string>
+    <string name="phoneme_3">शब्द खेळ 3</string>
+    <string name="phoneme_4">शब्द खेळ 4</string>
+
+</resources>
